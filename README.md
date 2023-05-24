@@ -1,6 +1,6 @@
-# Fullstack (MERN) - Audio-commerce website api
+# Audio-commerce website node api
 
-This is a simple nodejs api required to help bootstrap ecommerce backend in js without starting from scratch
+This is a simple nodejs api required to help bootstrap ecommerce backend as a template without starting from scratch
 
 Users should be able to:
 
